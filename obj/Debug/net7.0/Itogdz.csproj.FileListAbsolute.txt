@@ -1,0 +1,15 @@
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\bin\Debug\net7.0\Itogdz.exe
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\bin\Debug\net7.0\Itogdz.deps.json
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\bin\Debug\net7.0\Itogdz.runtimeconfig.json
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\bin\Debug\net7.0\Itogdz.dll
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\bin\Debug\net7.0\Itogdz.pdb
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\obj\Debug\net7.0\Itogdz.csproj.AssemblyReference.cache
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\obj\Debug\net7.0\Itogdz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\obj\Debug\net7.0\Itogdz.AssemblyInfoInputs.cache
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\obj\Debug\net7.0\Itogdz.AssemblyInfo.cs
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\obj\Debug\net7.0\Itogdz.csproj.CoreCompileInputs.cache
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\obj\Debug\net7.0\Itogdz.dll
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\obj\Debug\net7.0\refint\Itogdz.dll
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\obj\Debug\net7.0\Itogdz.pdb
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\obj\Debug\net7.0\Itogdz.genruntimeconfig.cache
+C:\Users\lida1\Desktop\Итоговое ДЗ\Itogdz\obj\Debug\net7.0\ref\Itogdz.dll
